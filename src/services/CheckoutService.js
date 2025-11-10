@@ -1,4 +1,4 @@
-import { Pedido } from '../domain/Pedido.js';
+import { Pedido } from "../domain/Pedido";
 
 export class CheckoutService {
     
